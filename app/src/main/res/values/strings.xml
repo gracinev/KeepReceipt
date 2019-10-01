@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">KeepReceipt</string>
+    <string name="title_activity_view_receipt">ViewReceipt</string>
+    <string-array name="sort_by_arr">
+        <item>Price</item>
+        <item>Most Recent</item>
+        <item>Least Recent</item>
+    </string-array>
+    <string-array name="sort_by_cat">
+        <item>Personal</item>
+        <item>Food</item>
+        <item>Entertainment</item>
+    </string-array>
+    <string name="title_activity_menu_">Menu_Activity</string>
+    <string name="input_title">Title: %s</string>
+    <string name="input_total">Total: %s</string>
+    <string name="input_date">Date: %s</string>
+    <string name="input_payment_type">Payment Type: %s</string>
+
+</resources>
